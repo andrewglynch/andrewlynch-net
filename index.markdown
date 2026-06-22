@@ -1,0 +1,39 @@
+---
+layout: home
+title: Start Here
+---
+
+I'm a small business operator, occasional writer, and Excel fanboy. I love steak, wine, football, and reading.
+
+I'm trying to become what Charlie Munger calls a "learning machine" — going to bed each night a little bit healthier, wealthier and wiser than when I woke up.
+
+## Best Of
+
+- [How I got fired from my dream job -- and what I learned](/blog/how-i-got-fired-from-my-dream-job-and-what-i-learned)
+- [The three traits you need to be a learning machine](/blog/the-three-traits-you-need-to-be-a-learning-machine)
+- [The number one way to increase your productivity, get healthier, and become a happier person](/blog/the-number-one-way-to-increase-your-productivity-get-healthier-and-become-a-happier-person)
+- [What I learned from two years of online poker](/blog/what-i-learnt-from-two-years-of-online-poker)
+- [The secrets of being likeable](/blog/the-secrets-of-being-likeable)
+- [Focus on the fundamentals](/blog/focus-on-the-fundamentals)
+- [You are the priority](/blog/you-are-the-priority)
+
+## Podcasts
+
+- **Made You Think** — Review of *The Quest of the Simple Life* by William Dawson, covering modernity, city vs. country living, work value, and success metrics.
+- **Business Brainstorms with Jakob Greenfeld** — Discussion on Twitter, metaverse reactions, and business ideas including Primal Weekend and Zero to Wine.
+- **CPA Advisory Show** — Conversation about data dashboards, soft skills in accounting, and client service improvement.
+
+## About Me
+
+I'm based in Nottingham, UK, having previously lived in Newcastle, Birmingham, and Austin. I studied economics at university and I'm a CIMA-qualified management accountant. I was the first full-time hire at Scribe Media (formerly Book In A Box). I'm an Everton FC supporter and my favourite book is *The Big Short* by Michael Lewis. I once did stand-up comedy.
+
+## Core Principles
+
+1. **Extreme ownership** — Take complete ownership of your domain.
+2. **Process over outcomes** — Prioritise the process and let the results follow.
+3. **Master the fundamentals** — Relentlessly master the basics.
+4. **Continuous improvement** — Embrace daily improvement, no matter how small.
+
+## Newsletter
+
+I write a weekly email called **Human Capital** where I share the most interesting things I've found that week, with the aim of making you healthier, wealthier, wiser, and smarter. [Subscribe on Substack](https://andrewglynch.substack.com/).

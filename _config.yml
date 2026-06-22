@@ -1,0 +1,23 @@
+title: Andrew Lynch
+email: andrewglynch@gmail.com
+description: >-
+  A small business operator, occasional writer, and learning machine.
+baseurl: ""
+url: "https://andrewlynch.net"
+
+permalink: /blog/:slug
+
+header_pages:
+  - articles.md
+  - influences.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - convert_posts.py
+  - missing_images.md
+  - Gemfile
+  - Gemfile.lock
+  - README.md
