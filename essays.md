@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Articles
-permalink: /articles
+title: Essays
+permalink: /essays
 ---
 
 Generally I write about three things: **health, wealth and wisdom**.
