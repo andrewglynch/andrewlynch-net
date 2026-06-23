@@ -27,3 +27,5 @@ I've published 100+ articles since 2008. Here are some of the best.
 - [What I learned from two years of online poker](/blog/what-i-learnt-from-two-years-of-online-poker)
 - [Why I don't like how Erin Pavlina makes money](/blog/update-on-erin-pavlina-and-why-i-disagree-with-what-she-does-so-much)
 - [The advice I got from James Altucher](/blog/everyone-should-be-more-like-james-altucher)
+
+If you want the full archive of everything I've ever written, just click [here](/blog).
