@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Essays
-permalink: /essays
+title: Writing
+permalink: /writing
 ---
 
 I've written 150+ articles since I first started writing online in 2008, way back in the days of Blogger and Wordpress.com. Here are some of the best.
