@@ -15,8 +15,6 @@ Think P&L porn like this:[
 
 ![](https://substack-post-media.s3.amazonaws.com/public/images/ca47414e-b2fe-4c09-9826-638329178d46_585x821.png)
 
-](https://substackcdn.com/image/fetch/$s_!wuE_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca47414e-b2fe-4c09-9826-638329178d46_585x821.png)
-
 and I’ll tell you the name of the company, and give you a full breakdown of the company’s financials, history, ownership, and more.
 
 If that sounds like your bag, you can sign up below:[

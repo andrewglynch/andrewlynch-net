@@ -26,7 +26,6 @@ Since then I’ve moved into a new place — literally, having bought a house, p
 
 ![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/108a5e24-09c8-4cb8-b791-55ffa70adb92_1170x1241.jpeg)
 
-](https://substackcdn.com/image/fetch/$s_!UA1S!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F108a5e24-09c8-4cb8-b791-55ffa70adb92_1170x1241.jpeg)
 *Obilgatory picture of the dog and, to a lesser extent, the house*
 
 So the focus of my writing is changing to reflect that. From now on, I’ll be writing essays on an intermittent schedule, broadly around these themes:

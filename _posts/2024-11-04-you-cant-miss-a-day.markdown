@@ -32,11 +32,11 @@ Seaman continued, “It’s a simple formula. There’s one thing you have to do
 
 Rabil concludes:
 
-*I don’t know about the other kids, but I walked out of that auditorium and did what COach Seaman said. Every single day, rain or shine, I practiced. Everywhere I went, I would find a wall to throw against. A goal to shoot on. From my home state of Maryland to New York, California, and Washington, to England, Italy, Spain, Israel, and France—me, a stick, and a ball.*
+*I don’t know about the other kids, but I walked out of that auditorium and did what Coach Seaman said. Every single day, rain or shine, I practiced. Everywhere I went, I would find a wall to throw against. A goal to shoot on. From my home state of Maryland to New York, California, and Washington, to England, Italy, Spain, Israel, and France—me, a stick, and a ball.*
 
 *For twenty years.*
 
-The result? Rabil was offered not one, but **twelve **full scholarships to top schools, won All-American honours four years in a row, and became the #1 draft pick, then played professional lacrosse for 14 years, winning two championships and, along the way, breaking the record for most career points, and reaching the pinnacle of his sport.
+The result? Rabil was offered not one, but **twelve** full scholarships to top schools, won All-American honours four years in a row, and became the #1 draft pick, then played professional lacrosse for 14 years, winning two championships and, along the way, breaking the record for most career points, and reaching the pinnacle of his sport.
 
 All from a hundred shots a day. A simple thirty minute commitment to practising your craft.
 

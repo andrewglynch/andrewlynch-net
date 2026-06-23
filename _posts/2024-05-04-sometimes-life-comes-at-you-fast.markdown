@@ -19,8 +19,6 @@ A couple of things are changing:
 
 ![](https://substack-post-media.s3.amazonaws.com/public/images/38aa0c28-4bb3-4ad5-9ba2-debb6dd699a4_1190x616.png)
 
-](https://substackcdn.com/image/fetch/$s_!BIMF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38aa0c28-4bb3-4ad5-9ba2-debb6dd699a4_1190x616.png)
-
 I miss the freedom of expression that used to exist in the blogosphere about 15 years ago. Just a bunch of people — not media companies, but real people — writing casually and regularly about what they were up to. I can never bring that era back, but I can do one small thing, which is be the change I want to see. So that’s what this newsletter is from now on: **a personal blog. **
 
 You’ll hear from me on a completely unpredictable schedule, about what I’m working on, where I’ve been, the things I’ve learned, the places I’ve been, and more. If you don’t want that, that’s fine — feel free to unsubscribe.
@@ -42,8 +40,6 @@ This time last year I was working at a company I liked, with colleagues that I g
 I drove a bunch of changes in the Finance team specifically, taking them off the paper-based system the former Finance Director used — literally, here are some month-end calculations he used to work out accruals and prepayments:[
 
 ![](https://substack-post-media.s3.amazonaws.com/public/images/9a728c9c-489b-40f4-86e6-98a4b93af029_1364x2424.jpeg)
-
-](https://substackcdn.com/image/fetch/$s_!4wSo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a728c9c-489b-40f4-86e6-98a4b93af029_1364x2424.jpeg)
 
 and implementing more automated, slicker processes, which also freed up some time to do a bunch more analysis and insight and figure out how we could drive bottom-line results.
 
@@ -73,8 +69,6 @@ Bingo. I went through the recruitment process, got the job, and started in Novem
 
 ![](https://substack-post-media.s3.amazonaws.com/public/images/cd93e219-bf60-49f1-9436-3fd89bf35fe7_1046x1090.png)
 
-](https://substackcdn.com/image/fetch/$s_!yXpl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd93e219-bf60-49f1-9436-3fd89bf35fe7_1046x1090.png)
-
 Having been there for five months now, I can safely say, I love it. I’ll share more in another post, but for a number of reasons, this role felt like coming home. It’s fantastic.
 
 ### We finally finished our four-year home renovation project
@@ -89,15 +83,9 @@ Again, I’ll write more about this in future, but there’s such a tangible sen
 
 ![Image](https://substack-post-media.s3.amazonaws.com/public/images/60888f2d-63a0-4724-996f-626a951eab27_1536x2048.jpeg)
 
-](https://substackcdn.com/image/fetch/$s_!nEZ5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F60888f2d-63a0-4724-996f-626a951eab27_1536x2048.jpeg)[
-
 ![Image](https://substack-post-media.s3.amazonaws.com/public/images/1c42a90f-b6e4-4a9f-9ef0-cd0578de89c5_1152x2048.jpeg)
 
-](https://substackcdn.com/image/fetch/$s_!Ha1Q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c42a90f-b6e4-4a9f-9ef0-cd0578de89c5_1152x2048.jpeg)[
-
 ![Image](https://substack-post-media.s3.amazonaws.com/public/images/b4283e91-822a-47fa-9871-3c33021c1764_1536x2048.jpeg)
-
-](https://substackcdn.com/image/fetch/$s_!x7Kn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb4283e91-822a-47fa-9871-3c33021c1764_1536x2048.jpeg)
 
 I dug all that out, put down all the rubble, compacted it, then mixed all the mortar, and laid the slabs down level. Later (not pictured), I also added grout, tidied it up, added stones down the side, and a little more. In his book Shop Class as Soulcraft, author Matthew Crawford writes:
 
@@ -115,27 +103,17 @@ It was excellent. The food on board the ship was fantastic, we saw some beautifu
 
 ![](https://substack-post-media.s3.amazonaws.com/public/images/4c16e09b-28ff-4ddc-a59e-d9808ae65a38_4032x3024.jpeg)
 
-](https://substackcdn.com/image/fetch/$s_!R_Ju!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c16e09b-28ff-4ddc-a59e-d9808ae65a38_4032x3024.jpeg)[
-
 ![](https://substack-post-media.s3.amazonaws.com/public/images/05fbba4e-27ae-4553-b910-b766d3da80f5_4032x3024.jpeg)
-
-](https://substackcdn.com/image/fetch/$s_!MmCy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F05fbba4e-27ae-4553-b910-b766d3da80f5_4032x3024.jpeg)[
 
 ![](https://substack-post-media.s3.amazonaws.com/public/images/6aad0f6b-e298-4353-b85f-4065e0fbce2a_4032x3024.jpeg)
 
-](https://substackcdn.com/image/fetch/$s_!Z8qh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6aad0f6b-e298-4353-b85f-4065e0fbce2a_4032x3024.jpeg)[
-
 ![](https://substack-post-media.s3.amazonaws.com/public/images/147b862c-3b9e-4a81-975d-041968dfeed7_4032x3024.jpeg)
-
-](https://substackcdn.com/image/fetch/$s_!QsoE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F147b862c-3b9e-4a81-975d-041968dfeed7_4032x3024.jpeg)
 
 ### We had a daugher
 
 Lastly, and most importantly, we welcomed our daughter into the world in April 2024.[
 
 ![](https://substack-post-media.s3.amazonaws.com/public/images/58ba3f48-c6a5-44c7-a7a4-c49073e1bbb7_1094x1058.png)
-
-](https://substackcdn.com/image/fetch/$s_!o3RR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F58ba3f48-c6a5-44c7-a7a4-c49073e1bbb7_1094x1058.png)
 
 This general update post is already long enough, so I won’t go into all the details of what the pregnancy period and the first two weeks of parenthood have been like, but if you’re a parent, you already know. And if you’re not, then nothing I say can truly explain it. Which is the sort of annoying shit people used to say to me before I was a parent, but unfortunately, it’s 100% true. Suffice to say, I’m a very happy and proud #girldad.
 

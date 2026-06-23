@@ -1,12 +1,21 @@
 ---
 layout: post
-title: "How to double revenue and 10x margins in three years"
-date: 2023-04-05
-permalink: /blog/how-to-double-revenue-and-10x-margins
-description: "A get-rich-kinda-quick-but-it's-quite-hard-work story"
+title: "Hello! Here's a get-rich-kinda-quick story to start"
+date: 2023-05-18
+permalink: /blog/hello-heres-a-get-rich-kinda-quick
+categories: net-income
+description: "A tale of break-even to 7 figure exit"
 ---
 
-*[Substack version](https://andrewglynch.substack.com/p/how-to-double-revenue-and-10x-margins)*
+*[Substack version](https://netincome.substack.com/p/hello-heres-a-get-rich-kinda-quick)*
+
+*Hello! Welcome to Net Income, a behind-the-scenes look at some of the most interesting companies I find. I’m Andrew Lynch, a small company Finance Director here in the UK. If you’re getting this in your inbox, you’re one of the first **12 wonderful people** to subscribe. Thanks, I appreciate it — and if you like this, please share it.*
+
+*Without further ado, here’s a story about an SME I worked for a couple of years ago.*
+
+*EDIT (28-Aug-24): more than a year after I started this newsletter, we’ve now got over **3,000 incredible subscribers**. I’m blown away that so many people want to read what I have to say about small company financial statements, but it warms my heart to know there are thousands of us. Thank you. Without further ado, here’s the post.*
+
+---
 
 A million pounds in profit.
 
@@ -206,4 +215,8 @@ Not only that, but in that time the business has paid out a total of £934K in d
 
 Not bad for a little company from the north of England.
 
-Those are the kind of opportunities you can find in the world of small business. You won’t get rich overnight, but if you’re willing to put in work over time, you can still make life-changing money. It just takes work.
+Those are the kind of opportunities you can find in the world of small business. You won’t get rich overnight, but if you’re willing to put in work over time, you can still make life-changing money. It just takes work.[
+
+![Image](https://substack-post-media.s3.amazonaws.com/public/images/97cdbddd-0e5d-485d-bd26-4eb6678da8c7_680x171.png)
+
+And as an after-thought, the founder, Mark Cooper, sold this company in 2021 for an undisclosed amount — my guess is mid-seven figures, probably £5-8M — and sailed off into the sunset as he richly deserves to do.
