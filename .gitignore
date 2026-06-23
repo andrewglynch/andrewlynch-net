@@ -3,3 +3,5 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+TODO-remaining-actions.md
+HOW-WE-BUILT-THIS.md

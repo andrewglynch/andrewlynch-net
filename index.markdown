@@ -3,9 +3,9 @@ layout: home
 title: Start Here
 ---
 
-I'm a small business operator, occasional writer, and Excel fanboy. I love steak, wine, football, and reading.
+Hi, I'm Andrew. I'm finance professional, occasional writer, husband, father, and Excel fanboy. I love steak, wine, football, and reading.
 
-I'm trying to become what Charlie Munger calls a "learning machine" — going to bed each night a little bit healthier, wealthier and wiser than when I woke up.
+I aim to be what Charlie Munger calls a "learning machine." I want to go to bed each night a little bit healthier, wealthier and wiser than when I woke up.
 
 ## Best Of
 
