@@ -202,10 +202,10 @@ pre code {
 /* Profile photo */
 .profile-photo {
   display: block;
-  width: 100%;
-  max-width: 360px;
+  width: 60%;
+  max-width: 250px;
   margin: 0 auto 2rem;
-  border-radius: 8px;
+  border-radius: 50%;
 }
 
 /* Home page */
