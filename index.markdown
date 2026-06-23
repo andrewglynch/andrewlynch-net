@@ -3,6 +3,8 @@ layout: home
 title: Start Here
 ---
 
+<img src="/assets/images/IMG_9577.jpeg" alt="Andrew Lynch" class="profile-photo">
+
 Hi, I'm Andrew. I'm finance professional, occasional writer, husband, father, and Excel fanboy. I love steak, wine, football, and reading.
 
 I aim to be what Charlie Munger calls a "learning machine." I want to go to bed each night a little bit healthier, wealthier and wiser than when I woke up.
@@ -27,13 +29,10 @@ I aim to be what Charlie Munger calls a "learning machine." I want to go to bed 
 
 I'm based in Nottingham, UK, having previously lived in Newcastle, Birmingham, and Austin. I studied economics at university and I'm a CIMA-qualified management accountant. I was the first full-time hire at Scribe Media (formerly Book In A Box). I'm an Everton FC supporter and my favourite book is *The Big Short* by Michael Lewis. I once did stand-up comedy.
 
-## Core Principles
 
-1. **Extreme ownership** — Take complete ownership of your domain.
-2. **Process over outcomes** — Prioritise the process and let the results follow.
-3. **Master the fundamentals** — Relentlessly master the basics.
-4. **Continuous improvement** — Embrace daily improvement, no matter how small.
+## Newsletters
 
-## Newsletter
+I've got a couple of Substack newsletters that I write on a semi-regular basis that you might like if you like this site:
 
-I write a weekly email called **Human Capital** where I share the most interesting things I've found that week, with the aim of making you healthier, wealthier, wiser, and smarter. [Subscribe on Substack](https://andrewglynch.substack.com/).
+- [Off The Books](https://andrewglynch.substack.com/): a personal blog-style newsletter of stuff I find interesting, things I'm thinking about, long-form essays, that sort of thing.
+- [Net Income](https://netincome.co): breakdowns of company financials in what I hope is an entertaining and educational format. Think Acquired podcast meets Tim Urban's Wait But Why blog. If you like either of those, you'll like Net Income.

@@ -199,6 +199,15 @@ pre code {
   font-size: 0.85rem;
 }
 
+/* Profile photo */
+.profile-photo {
+  display: block;
+  width: 100%;
+  max-width: 360px;
+  margin: 0 auto 2rem;
+  border-radius: 8px;
+}
+
 /* Home page */
 .home h2:first-of-type {
   margin-top: 2rem;
