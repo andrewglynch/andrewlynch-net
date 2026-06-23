@@ -82,7 +82,7 @@ I was struggling to keep up, because the company was growing so fast, and I was 
 
 This actually had a really harmful effect: I kept expecting to be “found out”, so I would put off opening up my emails or Slack in the morning, because I was always convinced that today would be the day someone would realise I suck at my job, and there’d be an angry message waiting for me, telling me how bad I was.
 
-And this anxiety meant that I dreaded opening up my laptop every day. I buried my head in the sand, and refused to face the issue. Which, of course, only made things worse.** **
+And this anxiety meant that I dreaded opening up my laptop every day. I buried my head in the sand, and refused to face the issue. Which, of course, only made things worse.
 
 ### 3. I am sometimes humble -- to a fault.
 
@@ -122,7 +122,7 @@ I just hated the work I had to do for the actual job.
 
 But admitting that might mean jeopardising my place in the team -- and it’s a hard problem to face, and I don’t like confrontation, and I just wanted to please them, and it’s always easier to avoid issues when your co-workers are thousands of miles away.
 
-So I ignored it.** **
+So I ignored it.
 
 ## The Culmination
 
@@ -136,7 +136,7 @@ By that point, I’d been underperforming for months, and Tucker and Zach had to
 
 I don’t begrudge them at all. I still had a lot of fun times working for Book In A Box, and learned a ton about writing, publishing, marketing, running a small business, customer service, project management, process improvement and about 6 other things. But here are the main lessons I take from this experience.
 
-## What I learned from my time at Book In A Box** **
+## What I learned from my time at Book In A Box
 
 ### 1. I need to take extreme ownership
 
@@ -146,7 +146,7 @@ The idea is this: everything, absolutely everything, is down to you. Willink use
 
 Wrong. It’s the platoon commander’s responsibility to effectively communicate to his CO what he needs, why he needs it, and what the consequences are if he doesn’t get it. And if he still doesn’t get it, then that’s his fault, because he didn’t sufficiently communicate that need.
 
-It was my job to do my job -- but it was also my job to tell everyone else what I needed, how I was doing, what problems I was having, and ask for help to solve them. So if I was struggling to keep up, I needed to own it and make that clear. If I thought a process needed to be changed, even if I couldn’t do it myself, I needed to speak up. That was all my responsibility, and I didn’t do it. And that’s especially true in a startup, where you need to be able to operate under uncertainty, and iterate your way towards solving problems. Ignoring it and hoping that someone else will tell you what to do is a recipe for failure.** **
+It was my job to do my job -- but it was also my job to tell everyone else what I needed, how I was doing, what problems I was having, and ask for help to solve them. So if I was struggling to keep up, I needed to own it and make that clear. If I thought a process needed to be changed, even if I couldn’t do it myself, I needed to speak up. That was all my responsibility, and I didn’t do it. And that’s especially true in a startup, where you need to be able to operate under uncertainty, and iterate your way towards solving problems. Ignoring it and hoping that someone else will tell you what to do is a recipe for failure.
 
 ### 2. I need to be around people who will challenge me
 
@@ -154,7 +154,7 @@ I actually spent the first three months of my time at Book In A Box living with 
 
 It’s not a coincidence that all that happened at once (while NOT working remotely). That’s the power of being around people who challenge you. Not just associating with them, or talking to them via email, Skype, or Slack, but PHYSICALLY being around them. Eating dinner with them. Going to meetings. Sat at a desk across from them.
 
-I know I should not work remotely (at least not full-time). I know for a fact that my next job needs to be in an environment where I am around other great people: role models, mentors, friends, and people who will challenge me and push me to be better. Not that they’ll do the hard work for me, but they’ll a) support me and motivate me and b) call me on my bullshit and make me realise when I’m not facing up to issues.** **
+I know I should not work remotely (at least not full-time). I know for a fact that my next job needs to be in an environment where I am around other great people: role models, mentors, friends, and people who will challenge me and push me to be better. Not that they’ll do the hard work for me, but they’ll a) support me and motivate me and b) call me on my bullshit and make me realise when I’m not facing up to issues.
 
 ### 3. I am actually pretty smart, but that’s nothing without action
 
@@ -168,7 +168,7 @@ The missing piece, of course, was actually taking any action.
 
 Tucker or Zach would often come to me later and say, “Hey -- I’ve noticed this problem. Here’s a good solution though. Can you get that done?” It was often the same problem and solution I’d spotted myself, but hadn’t done anything about. Which meant that I started to get a reputation at someone who couldn’t really see things through, and get things done.
 
-At the time I thought that was a bit unfair, but it’s 100% correct. Thinking through a problem is great, but the perfect solution you don’t implement is exactly the same as no solution at all.** **
+At the time I thought that was a bit unfair, but it’s 100% correct. Thinking through a problem is great, but the perfect solution you don’t implement is exactly the same as no solution at all.
 
 ### 4. All of these issues stem from a deep, deep fear of success
 

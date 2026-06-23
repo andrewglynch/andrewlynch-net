@@ -7,10 +7,6 @@ url: "https://andrewlynch.net"
 
 permalink: /blog/:slug
 
-header_pages:
-  - essays.md
-  - influences.md
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
