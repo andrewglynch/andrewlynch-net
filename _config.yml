@@ -8,7 +8,7 @@ url: "https://andrewlynch.net"
 permalink: /blog/:slug
 
 header_pages:
-  - articles.md
+  - essays.md
   - influences.md
 
 plugins:
